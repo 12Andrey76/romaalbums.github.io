@@ -217,4 +217,8 @@ footer h1 {
 		font-size: 175%;
 	}
 
+	.content {
+		margin-bottom: 0;
+	}
+
 }
